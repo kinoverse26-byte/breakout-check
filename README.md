@@ -1,4 +1,4 @@
-# breakout_check
+﻿# breakout_check
 
 A small free Python tool that measures one thing: **how often does an N-day high breakout fail, compared with an ordinary day?**
 
@@ -38,4 +38,4 @@ Reading: breakouts fail about as often as the baseline (61.9% vs 60.7%). On this
 - One asset, one two-year period.
 - The baseline uses every day (overlapping), so it is not independent either, and its level distance is a choice of mine.
 - Closes only; no costs, no stops, no trading result.
-- Not checked by a person yet.
+- Checked and approved by the owner (a person) before publishing. Still: read the code and run it yourself before trusting any number.
